@@ -1,8 +1,7 @@
 # My movie list 
 
-This is a website for movies! 
+Some movie list ! 
 
-My first completely project in Alpha Camp 
 
 ## funcitons
 
